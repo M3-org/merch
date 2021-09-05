@@ -28,20 +28,19 @@
             "alphaCutoff" : 0.5,
             "alphaMode" : "MASK",
             "doubleSided" : true,
-            "name" : "M00_005_01_Tops_01_CLOTH",
+            "name" : "M00_005_01_Tops_01_CLOTH.007",
             "pbrMetallicRoughness" : {
                 "baseColorTexture" : {
                     "index" : 0,
                     "texCoord" : 0
                 },
-                "metallicFactor" : 0,
-                "roughnessFactor" : 0
+                "metallicFactor" : 0
             }
         }
     ],
     "meshes" : [
         {
-            "name" : "Body.baked.018",
+            "name" : "Body.baked.026",
             "primitives" : [
                 {
                     "attributes" : {
